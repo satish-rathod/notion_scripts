@@ -43,8 +43,7 @@ Before running the scripts, ensure you have the following:
 *(This section will be populated as scripts are added)*
 
 | Script Name | Description | Usage |
-|Data | | |
-| `example_script.py` | Example description | `python example_script.py` |
+| `add_page.py` | Adds a new page to a parent page or database. | `python add_page.py --title "My Page" --parent-id <ID>` |
 
 ## 🤝 Contributing
 
